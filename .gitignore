@@ -9,6 +9,9 @@
 # see also test/files/.gitignore
 #
 
+.idea/
+.bsp/
+
 #
 # JARs aren't checked in, they are fetched by sbt
 #
